@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://optimistic-babbage-553526.netlify.app">
-          		<img src="https://optimistic-babbage-553526.netlify.app/img/film.png" width="20px"> Movies
+          		<img src="/../main/img/film.png?raw=true" width="20px"> Movies
   </a>
 </p>
 
