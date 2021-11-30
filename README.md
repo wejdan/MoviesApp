@@ -27,7 +27,6 @@ ________
 * Display movies detailes.
 * Allow uses to search for movies by keyword.
 * Display all movies of specific genre.
-* Display movies detailes.
 * Allow users to add and remove movies from watch later list.
 * Allow users to add and remove movies from favorite list.
 * Allow users to rate and unrate movies.
