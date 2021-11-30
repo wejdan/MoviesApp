@@ -37,7 +37,6 @@ ________
 * CSS
 * Vanilla Javascript/jquery
 * slick slider
-* simplebar js.
 * Tailwind Css.
 
 
