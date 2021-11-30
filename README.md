@@ -44,7 +44,7 @@ ________
 
 ## Live preview
 
-Check out the demo page [Live Preview](https://elegant-bardeen-f4bc1f.netlify.app/)
+Check out the demo page [Live Preview](https://distracted-aryabhata-1ed2cb.netlify.app/)
 
 _________
 
