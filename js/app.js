@@ -2,7 +2,7 @@
 
 
 
-const APP_KEY='';
+const APP_KEY='3a09d1aaa11cd72ec6615fa67198c6e2';
 
 
 let img_url = "https://image.tmdb.org/t/p/w500";
@@ -448,7 +448,6 @@ async function showDetails(id){
 
 
   toggleModal();
-  new SimpleBar(modal_content, { autoHide: true });
 
 
   fetch(movie_detail_http).then(res => res.json()).then(results => {
