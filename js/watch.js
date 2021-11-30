@@ -80,9 +80,7 @@ function fetch_page(){
             movie_title.addEventListener("click",()=>{
                 showDetails(results.id)
             })
-            movie_img.addEventListener("click",()=>{
-                showDetails(results.id)
-            })
+      
             movie_title.innerText=results.title
 
             const remove_from_list=document.createElement("div");

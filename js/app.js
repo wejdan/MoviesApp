@@ -2,7 +2,7 @@
 
 
 
-const APP_KEY='3a09d1aaa11cd72ec6615fa67198c6e2';
+const APP_KEY='';
 
 
 let img_url = "https://image.tmdb.org/t/p/w500";
@@ -24,9 +24,7 @@ async function create_movie(element){
 
   const movie_title=document.createElement("h1");
   movie_title.classList.add("movie-title");
-  movie_img.addEventListener("click",(e)=>{
-    showDetails(element.id)
-})
+
 movie_title.addEventListener("click",(e)=>{
   showDetails(element.id)
 })
