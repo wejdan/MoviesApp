@@ -12,7 +12,7 @@
 
 <h1 align="center">Movies App</h1>
 
-<p align="center">JavaScriptapp that fetches movie data from the  <a href="https://www.themoviedb.org/">Movie DB API</a><p>
+<p align="center">JavaScript app that fetches movie data from the  <a href="https://www.themoviedb.org/">Movie DB API</a><p>
 
 
 
@@ -46,7 +46,7 @@ ________
 
 ## Live preview
 
-Check out the demo page[Live Preview](https://optimistic-babbage-553526.netlify.app)
+Check out the demo page [Live Preview](https://optimistic-babbage-553526.netlify.app)
 
 _________
 
