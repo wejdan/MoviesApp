@@ -44,7 +44,7 @@ ________
 
 ## Live preview
 
-Check out the demo page [Live Preview](https://stoic-wing-a2c6f6.netlify.app/)
+Check out the demo page [Live Preview](https://hardcore-curran-d6a8dc.netlify.app/)
 
 _________
 
